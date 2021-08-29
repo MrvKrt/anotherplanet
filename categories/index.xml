@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on From Another Planet: Mind-space-junks</title>
-    <link>anotherplanet.github.io/categories/</link>
+    <link>http://mrvkrt.github.io/anotherplanet/categories/</link>
     <description>Recent content in Categories on From Another Planet: Mind-space-junks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="anotherplanet.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://mrvkrt.github.io/anotherplanet/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Music</title>
-      <link>anotherplanet.github.io/categories/music/</link>
+      <link>http://mrvkrt.github.io/anotherplanet/categories/music/</link>
       <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>anotherplanet.github.io/categories/music/</guid>
+      <guid>http://mrvkrt.github.io/anotherplanet/categories/music/</guid>
       <description></description>
     </item>
     
