@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on From Another Planet: Mind-space-junks</title>
-    <link>http://mrvkrt.github.io/anotherplanet/categories/</link>
+    <link>https://anotherplanet.website/categories/</link>
     <description>Recent content in Categories on From Another Planet: Mind-space-junks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://mrvkrt.github.io/anotherplanet/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://anotherplanet.website/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Movie</title>
-      <link>http://mrvkrt.github.io/anotherplanet/categories/movie/</link>
+      <link>https://anotherplanet.website/categories/movie/</link>
       <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://mrvkrt.github.io/anotherplanet/categories/movie/</guid>
+      <guid>https://anotherplanet.website/categories/movie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Game</title>
-      <link>http://mrvkrt.github.io/anotherplanet/categories/game/</link>
+      <link>https://anotherplanet.website/categories/game/</link>
       <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://mrvkrt.github.io/anotherplanet/categories/game/</guid>
+      <guid>https://anotherplanet.website/categories/game/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Music</title>
-      <link>http://mrvkrt.github.io/anotherplanet/categories/music/</link>
+      <link>https://anotherplanet.website/categories/music/</link>
       <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://mrvkrt.github.io/anotherplanet/categories/music/</guid>
+      <guid>https://anotherplanet.website/categories/music/</guid>
       <description></description>
     </item>
     
